@@ -1,12 +1,12 @@
 {
-  "name": "@pancakeswap-libs/eslint-config-pancake",
+  "name": "@ottoswap-libs/eslint-config-ottoswap",
   "version": "1.0.1",
-  "description": "Eslint config for PancakeSwap",
+  "description": "Eslint config for OttoSwap",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/eslint-config-pancake",
+  "repository": "https://github.com/ottoswap/ottoswap-toolkit/tree/master/packages/eslint-config-ottoswap",
   "license": "MIT",
   "author": "RabbitDoge",
   "private": false,
