@@ -1,5 +1,5 @@
 {
-  "name": "@ottoswap-libs/eslint-config-ottoswap",
+  "name": "ottoswap-libs-eslint-config-ottoswap",
   "version": "1.0.1",
   "description": "Eslint config for OttoSwap",
   "main": "lib/index.js",

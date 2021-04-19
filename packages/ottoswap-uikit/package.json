@@ -1,6 +1,6 @@
 {
-  "name": "@ottoswap-libs/uikit",
-  "version": "0.1.0",
+  "name": "ottoswap-libs-uikit",
+  "version": "0.1.3",
   "description": "Set of UI components for OttoSwap projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
