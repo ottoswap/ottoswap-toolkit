@@ -59,7 +59,7 @@ const Logo: React.FC<LogoProps> = ({ isDark, ...props }) => {
         <tspan
           x={-71.718}
           y={20.622}
-          fontWeight={700}
+          fontWeight={600}
         >
           OttoSwap
         </tspan>
